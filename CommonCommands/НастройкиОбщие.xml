@@ -19,6 +19,7 @@
 			<CommandParameterType/>
 			<ParameterUseMode>Single</ParameterUseMode>
 			<ModifiesData>false</ModifiesData>
+			<OnMainServerUnavalableBehavior>Auto</OnMainServerUnavalableBehavior>
 		</Properties>
 	</CommonCommand>
 </MetaDataObject>

@@ -75,11 +75,11 @@
 					</ToolTip>
 					<ExtendedTooltip name="ГруппаPushРасширеннаяПодсказка" id="15"/>
 					<ChildItems>
-						<InputField name="Title" id="16">
-							<DataPath>Title</DataPath>
+						<InputField name="pTitle" id="16">
+							<DataPath>pTitle</DataPath>
 							<TitleLocation>Top</TitleLocation>
-							<ContextMenu name="TitleКонтекстноеМеню" id="17"/>
-							<ExtendedTooltip name="TitleРасширеннаяПодсказка" id="18"/>
+							<ContextMenu name="pTitleКонтекстноеМеню" id="17"/>
+							<ExtendedTooltip name="pTitleРасширеннаяПодсказка" id="18"/>
 						</InputField>
 						<InputField name="Text" id="19">
 							<DataPath>Text</DataPath>
@@ -131,7 +131,7 @@
 				</v8:StringQualifiers>
 			</Type>
 		</Attribute>
-		<Attribute name="Title" id="3">
+		<Attribute name="pTitle" id="3">
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
